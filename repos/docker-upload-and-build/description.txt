@@ -1,0 +1,1 @@
+upload sources to server and build docker image

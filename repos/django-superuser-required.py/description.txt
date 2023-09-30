@@ -1,0 +1,1 @@
+Django SuperuserRequiredMixin - request.user.is_superuser==True required

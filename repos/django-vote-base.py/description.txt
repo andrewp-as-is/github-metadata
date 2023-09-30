@@ -1,0 +1,1 @@
+Django vote base models and views

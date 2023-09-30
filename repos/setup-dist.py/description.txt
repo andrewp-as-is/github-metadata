@@ -1,0 +1,1 @@
+setup module for distributions: python -m setup_dist sdist --dist-dir=<dist_dir>

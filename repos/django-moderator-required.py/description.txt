@@ -1,0 +1,1 @@
+Django ModeratorRequiredMixin - request.user.is_moderator==True required

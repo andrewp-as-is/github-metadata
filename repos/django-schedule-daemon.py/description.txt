@@ -1,0 +1,1 @@
+Django schedule daemon https://pypi.org/project/schedule/

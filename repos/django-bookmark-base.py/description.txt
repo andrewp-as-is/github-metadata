@@ -1,0 +1,1 @@
+Django bookmark base models and views

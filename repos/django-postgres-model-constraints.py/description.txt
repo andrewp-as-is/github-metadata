@@ -1,0 +1,1 @@
+django postgres model add/drop constraints statements

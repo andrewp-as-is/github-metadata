@@ -1,0 +1,1 @@
+django-configurations AWS EC2 settings - ALLOWED_HOSTS and LOGGING

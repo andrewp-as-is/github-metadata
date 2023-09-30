@@ -1,0 +1,1 @@
+Django StaffRequiredMixin - request.user.is_staff==True required

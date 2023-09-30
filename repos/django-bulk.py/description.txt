@@ -1,0 +1,1 @@
+django bulk_create, bulk_update, bulk_delete helper

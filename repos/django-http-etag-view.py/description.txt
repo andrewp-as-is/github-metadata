@@ -1,0 +1,1 @@
+Django http Etag header view mixin
